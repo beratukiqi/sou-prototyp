@@ -1,8 +1,8 @@
 [
   {
     "id": "v1",
-    "label": "v1",
+    "label": "v1 - Avskalad + Vera navigation",
     "date": "2026-05-25",
-    "note": "Initial version"
+    "note": "Avskalad version inför första mötet med referensgruppen.<br/> Simulerar navigering till både mellansidan + målsidan i Vera."
   }
 ]
