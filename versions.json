@@ -1,8 +1,15 @@
 [
+    {
+    "id": "v2",
+    "label": "v2 - Version inför Referensgruppsmöte",
+    "date": "2026-06-01",
+    "note": "Uppdaterad version inför första mötet med referensgruppen.<br/> Innefattar <b>navigering</b> till Vera, samt flödet kring <b>Sökfrågor</b>"
+  },
   {
     "id": "v1",
     "label": "v1 - Avskalad + Vera navigation",
     "date": "2026-05-25",
     "note": "Avskalad version inför första mötet med referensgruppen.<br/> Simulerar navigering till både mellansidan + målsidan i Vera."
   }
+
 ]
