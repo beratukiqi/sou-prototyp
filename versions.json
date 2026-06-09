@@ -1,4 +1,10 @@
 [
+      {
+    "id": "v3",
+    "label": "v3 - Angular input fält",
+    "date": "2026-06-09",
+    "note": "Uppdaterad version efter våra möten med referensgruppen.<br/> Innefattar <b>nya inputfält</b>, samt <b>ordning på fälten.</b>"
+  },
     {
     "id": "v2",
     "label": "v2 - Version inför Referensgruppsmöte",
