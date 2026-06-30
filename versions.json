@@ -1,11 +1,17 @@
 [
-      {
+  {
+    "id": "v4",
+    "label": "v4 - Referensgrupp feedback justeringar",
+    "date": "2026-06-30",
+    "note": "Vidare arbete på de åtgärder vi satt efter referensgruppsmötet.<br/> Navigering justerad till målet / översikten samt hantering av inaktuella alternativ."
+  },
+  {
     "id": "v3",
     "label": "v3 - Angular input fält",
     "date": "2026-06-09",
     "note": "Uppdaterad version efter våra möten med referensgruppen.<br/> Innefattar <b>nya inputfält</b>, samt <b>ordning på fälten.</b>"
   },
-    {
+  {
     "id": "v2",
     "label": "v2 - Version inför Referensgruppsmöte",
     "date": "2026-06-01",
@@ -17,5 +23,4 @@
     "date": "2026-05-25",
     "note": "Avskalad version inför första mötet med referensgruppen.<br/> Simulerar navigering till både mellansidan + målsidan i Vera."
   }
-
 ]
